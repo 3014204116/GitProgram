@@ -11,4 +11,8 @@ public class HealloWord {
 	public int master_1() {
 		this is add from master branch!
 	}
+
+	public int fuction_2() {
+		this is modify from first_branch!
+	}
 }
