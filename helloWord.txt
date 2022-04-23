@@ -15,4 +15,9 @@ public class HealloWord {
 	public int fuction_2() {
 		this is modify from first_branch!
 	}
+	
+	public int fuction_3() {
+		this is modify from remote repository directly!
+	} 
 }
+
