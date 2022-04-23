@@ -7,4 +7,8 @@ public class HealloWord {
 	public int function_1() {
 		system.out.print("function_1 is to eat food")
 	}
+
+	public int fuction_2() {
+		this is modify from first_branch!
+	}
 }
