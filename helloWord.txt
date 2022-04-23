@@ -1,7 +1,10 @@
 public class HealloWord {
 	public static void main(String[] args) {
-		system.out.print("Heallo Word!")
 		system.out.print("insert 1111")
 		
+	}
+	
+	public int function_1() {
+		system.out.print("function_1 is to eat food")
 	}
 }
